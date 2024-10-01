@@ -1,0 +1,9 @@
+{
+    "name": "igor/trabalho-pw2",
+    "autoload": {
+        "psr-4": {
+            "Igor\\TrabalhoPw2\\": "src/"
+        }
+    },
+    "require": {}
+}
